@@ -138,8 +138,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -165,6 +180,32 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "    La Naissance de V\xE9nus\n          Sandro Botticelli\n\n             
+        1484-1486"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -7.106929
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -0.33047676
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -231,6 +272,16 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: ef99080874fffad47a10d8eb52a356e6, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.061
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.z
@@ -259,7 +310,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh27384
+  m_Name: pb_Mesh27426
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -608,6 +659,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.27814
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.055
       objectReference: {fileID: 0}
@@ -640,6 +696,41 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "      Les N\xE9nuphars\n       Claude Monet\n\n              1899"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.w
+      value: -0.32299113
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -3.6808026
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.y
+      value: -0.30087996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.6337862
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -706,6 +797,16 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: ae6fcbd4947f7eb408a6032cfd6d85ba, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.03
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.z
@@ -753,6 +854,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.305
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9743701
       objectReference: {fileID: 0}
@@ -775,6 +881,37 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "          Les M\xE9nines\n       Diego Vel\xE1zquez\n\n               
+        1656\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.w
+      value: -0.14129758
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -3.7162771
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.6962512
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1.1
       objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -841,6 +978,46 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: e7405d0e148017c45a84d0154c0f3d89, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.9243
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.6982761
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.11140205
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6982761
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.11140205
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -650.486
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -496.408
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -966,6 +1143,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.093
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.241
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9743701
       objectReference: {fileID: 0}
@@ -988,6 +1175,32 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "          L\u2019Ange D\xE9chu\n      Alexandre Cabanel\n\n                 
+        1847"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -3.7557619
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.6232476
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -1054,6 +1267,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 5626a0850e0d8524ba4953938ca24152, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.z
@@ -1096,7 +1314,7 @@ PrefabInstance:
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.6
+      value: -1.398
       objectReference: {fileID: 0}
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -1127,6 +1345,36 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "             Le Baiser\n          Gustav Klimt\n\n                1908"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.w
+      value: -0.08576131
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -3.6760328
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.7322524
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1.1
       objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -1193,6 +1441,46 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 463d628c4b559e0449b52811a2e51ce6, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.925
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.6982761
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.11140205
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6982761
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.11140205
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -650.4855
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -496.40875
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.z
@@ -1201,7 +1489,7 @@ PrefabInstance:
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.202
+      value: -0.164
       objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -3674,6 +3962,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 26
       objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "          La Joconde\n      L\xE9onard de Vinci\n\n           1503-1506"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -3.741598
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.y
+      value: -0.06627631
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.6053658
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1.1
+      objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_RootOrder
@@ -3739,6 +4057,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 9d84a5f0e4efb7d45ab2d066cfa62bde, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3802,6 +4125,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.394
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9743701
       objectReference: {fileID: 0}
@@ -3824,6 +4162,37 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "         Les Deux Fridas\n             Frida Kahlo\n\n                 
+        1939\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -3.7953386
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.y
+      value: -0.11506224
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.6075602
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -3890,6 +4259,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 731ff641a1d799e499c1f3554408dbbe, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -3967,6 +4341,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.859
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.371
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9743701
       objectReference: {fileID: 0}
@@ -3989,6 +4383,32 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: " Le D\xE9jeuner des Canotiers\n    Pierre-Auguste Renoir\t\n\n                 
+        1881\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -3.754609
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.6427262
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -4055,6 +4475,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 44d74b5a385391e4a9d3e81ea7706653, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.z
@@ -4567,6 +4992,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.081
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.417
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.9743701
       objectReference: {fileID: 0}
@@ -4590,6 +5025,32 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 26
       objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "                 Le Cri\n          Edvard Munch\n\n                 
+        1893\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -3.7401323
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.6962223
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_RootOrder
@@ -4598,7 +5059,7 @@ PrefabInstance:
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.322
+      value: 9.309
       objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -4655,6 +5116,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7d636b7ea659ead4da810846b8075b26, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -4708,6 +5174,37 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "         La Nuit \xC9toil\xE9e\n      Vincent Van Gogh\n\n               
+        1888"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.w
+      value: -0.20041108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -3.7548923
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.6150815
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1.1
       objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -4774,6 +5271,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 1bae25b5c585a2f40b8000d493c162ce, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -650.37714
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -496.3248
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -4806,7 +5318,7 @@ PrefabInstance:
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.69
+      value: -1.484
       objectReference: {fileID: 0}
     - target: {fileID: 1648717984959025334, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -4832,6 +5344,36 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "      La Ronde de Nuit\n           Rembrandt\n\n                1642"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.w
+      value: -0.103040695
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -3.7572865
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.7061698
+      objectReference: {fileID: 0}
+    - target: {fileID: 1663952403894126218, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 1.1
       objectReference: {fileID: 0}
     - target: {fileID: 2725141742243971892, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -4898,6 +5440,56 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 776d22435f06a914f8882cea41ab6e8c, type: 2}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.9244
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.69827616
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.11140205
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.69827616
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.11140205
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -650.4847
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -496.4077
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -18.129
+      objectReference: {fileID: 0}
+    - target: {fileID: 4872941128829384355, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
     - target: {fileID: 8397755046149567424, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.z
